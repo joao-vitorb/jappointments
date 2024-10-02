@@ -16,13 +16,13 @@
 This project was developed with the following technologies:
 
 - HTML, CSS, Javascript and ReactJS.
-- Yarn, Git and Github
+- NextJS, Git and Github
 - Figma
 
 ## 💻 Project
 
-This is a website for a fictional Gym called The JVB Gym.
+This is the frontend of a doctor appointments website, backend will be developed soon.
 
-- [Access the finished project online](https://joao-vitorb.github.io/thejvbgym)
+- [Access the finished project online](https://joao-vitorb.github.io/jappointments)
 
 Developed with ♥ by Joao Vitor Borges :wave:
